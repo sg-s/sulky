@@ -5,15 +5,15 @@ sulky is a information manipulation framework for writers and thinkers. sulky al
 Thus, “sulky” is two things: 
 
 1. a framework for organising information; and 
-2. a free software tool, written in JavaScript, that is an implementation of the framework and a proof-of-concept.
+2. a [free software](http://www.fsf.org/) tool, written in JavaScript, that is an implementation of the framework and a proof-of-concept.
 
-## The problems sulky solves
+# The problems sulky solves
 
-### The movie conversation problem
+## The movie conversation problem
 
-### The Wikipedia problem
+## The Wikipedia problem
 
-### The autobiography problem
+## The autobiography problem
 
 # Philosophy 
 
